@@ -1,0 +1,79 @@
+.top-header i,a{
+    color: #fff;
+    text-decoration: none;
+}
+.bottom-header h3{
+    color: darkgreen;
+}
+.bottom-header a{
+    color: #fff;
+    text-decoration: none;
+}
+.main-title-section h3{
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: 600;
+    color: #fff;
+    font-size: xx-large;
+}
+#title-btn{
+    color: darkgreen;
+    background-color: #fff;
+    font-weight: 600;
+}
+.main-title-section h1{
+    color: #fff;
+}
+.btn-card{
+    color: limegreen;
+    font-size: 17px;
+    background-color: #fff;
+    padding: 6px 40px 6px 40px;
+    border-color: limegreen;
+}
+.btn-card:hover{
+    color: #fff;
+    font-size: 17px;
+    background-color: limegreen;
+    padding: 6px 40px 6px 40px;
+}
+.main-content .row{
+    border-color: limegreen;
+    border-style: solid;
+}
+.main-content h3{
+    color: limegreen;
+}
+.opening-hours{
+    background-color: limegreen;
+    color: #fff;
+}
+.opening-hours p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.opening-hours .col-md-1{
+    border-right: solid;
+    border-right-color: #fff;
+}
+.top-footer{
+    background-color: #000;
+}
+.top-footer p{
+    color: #fff;
+}
+.top-footer h4,i{
+    color: limegreen;
+}
+.top-footer button{
+    background-color: limegreen;
+    color: #fff;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.bottom-footer{
+    font-weight: 500;
+}
+.bottom-footer span{
+    color: limegreen;
+}
