@@ -1,0 +1,77 @@
+*{margin: 0;padding: 0;}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.white{
+    color: #fff;
+}
+.black{
+    color: #000;
+}
+/* START : TOP SECTION STYLING */
+.top-section{
+    background-color: #1d1f2a;
+    padding: 1% 9%;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-rows: 70px;
+    row-gap: 10px;
+}
+.top-section h1{
+    font-size: xx-large;
+}
+.top-section h4{
+    color: #debc45;
+    font-size: x-large;
+}
+.top-section img{
+    border: 2px solid #1d1f2a;
+    border-radius: 90%;
+}
+/* END : TOP SECTION STYLING */
+
+/* START : CONTACT SECTION STYLING */
+.contacts{
+    background-color: #919191;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: start;
+}
+.contacts .contact-item{
+    padding: 1% 0 1% 25%;
+}
+.contacts p,i,a {
+    color: #1d1f2a;
+    text-decoration: none;
+}
+/* END : CONTACT SECTION STYLING */
+
+/* START : EDUCATION STYLING */
+.education{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 1%;
+}
+.education h2{
+    color: #03989e;
+}
+.education i{
+    margin-left: 5%;
+    color: #03989e;
+}
+.edu-item p{
+    font-size: large;
+}
+.edu-item .italic{
+    font-style: italic;
+}
+.education .edu-item{
+    padding: 1% 0 1% 15%;
+}
+.edu-item h2{
+    border-bottom: 5px solid #03989e;
+    border-radius: 5px;
+    position: absolute;
+    margin-bottom: 10px;
+}
+/* END : EDUCATION STYLING */
