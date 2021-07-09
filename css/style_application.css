@@ -22,9 +22,18 @@ form{
 .btn-primary{
     background-color: #ffcc00;
     color: #000;
+    border-color: #ffcc00;
 }
 .btn-primary:hover{
     background-color: #fff;
     color: #000;
+    border-color: #ffcc00;
+}
+.arrow[type=number]::-webkit-inner-spin-button, 
+.arrow[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
 }
 
