@@ -1,0 +1,30 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffcc00;
+}
+h1{
+    color: #000;
+    font-weight: 900;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    background-color: #000;
+    opacity: 0.9;
+}
+form{
+    color: #ffcc00;
+    font-weight: 600;
+}
+.form-check-label{
+    color: #fff;
+}
+.btn-primary{
+    background-color: #ffcc00;
+    color: #000;
+}
+.btn-primary:hover{
+    background-color: #fff;
+    color: #000;
+}
+
