@@ -1,0 +1,50 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.about{
+    font-family: 'Roboto', sans-serif;
+    color: #001f4d;
+}
+.heading{
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border-bottom: #000 solid;
+}
+.card{
+    border-radius: 15px;
+}
+.grow{
+    transition: all .4s ease-in-out;
+}
+.grow:hover{
+    transform: scale(1.1);
+}
+.btn-dark{
+    font-weight: bold;
+}
+.name{
+    font-weight: 600;
+}
+.modal-content{
+    font-family: 'Roboto', sans-serif;
+    color: #001f4d;
+    font-style: normal;
+}
+.italic{
+    font-style: italic;
+}
+span{
+    font-weight: 600;
+}
+.footer{
+    color: #fff;
+}
+.footer h1{
+    font-weight: bold;
+    border-bottom: #fff solid;
+}

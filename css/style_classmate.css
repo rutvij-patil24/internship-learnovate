@@ -1,0 +1,12 @@
+body{
+    font-family: 'Acme', sans-serif;
+}
+table{
+    font-family: 'Secular One', sans-serif;
+}
+.italic{
+    font-style: italic;
+}
+span{
+    color: #cc0066;
+}
